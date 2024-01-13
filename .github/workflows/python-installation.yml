@@ -1,4 +1,4 @@
-ame: Installing Python
+name: Installing Python
 'on':
 - push
 jobs:
